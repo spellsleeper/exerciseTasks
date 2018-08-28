@@ -1,4 +1,4 @@
-####exerciseTasks
+#### exerciseTasks
 This is a project with the target to log meta data for JUnit tests which were created for programming books or 
 coding dojos
 
